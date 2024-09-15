@@ -1,4 +1,4 @@
-# 📅 공연 예매 서비스 (제목 미정)
+# 📅 공연 예매 서비스 TicketLink
 
 SA : https://docs.google.com/spreadsheets/d/19dxxlxm-AgTFUA9iXpKXALT-iSc1qMK2z2macwl-I5c/edit?usp=sharing </br>
 
